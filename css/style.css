@@ -1,0 +1,42 @@
+.header{
+    width: 100%;
+    height: 90px;
+    background-color:  #0C111B;
+}
+
+.inp{
+    color: #fff;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+}
+
+.btn{
+    border-radius: 100px;
+    margin-left: 0;
+}
+.hero{
+    height: 100vh;
+    background-color: #0C111B;
+}
+
+.my__card{
+    margin-top: 150px;
+    width: 300px;
+    height: 400px;
+    img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+}
+
+.my__card-subtitle{
+    margin-top: 5px;
+    font-size: 15px;
+    color: gray;
+}
+
+.my__card-title{
+    color: #fff;
+}
